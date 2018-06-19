@@ -13,4 +13,4 @@ def fizzbuzz(x)
     puts "buzz"
      end 
 end 
-fizzbuzz (15) 
+fizzbuzz (6) 
